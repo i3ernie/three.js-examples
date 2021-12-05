@@ -1,2 +1,2 @@
 # three.js-examples
-some examples for three.js
+ collection of basic and instructive examples for three.js
